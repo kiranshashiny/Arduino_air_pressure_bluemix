@@ -39,3 +39,7 @@ Some photos of the sensor BMP 180 connected to the Arduino:
 
 <img width="430" alt="screen shot 2017-02-19 at 1 11 49 pm" src="https://cloud.githubusercontent.com/assets/14288989/23100360/18004622-f6a5-11e6-8d1a-3b66e8e45780.png">
 
+
+Close up Picture:
+
+<img width="368" alt="screen shot 2017-02-19 at 1 14 20 pm" src="https://cloud.githubusercontent.com/assets/14288989/23100405/d4b3db6c-f6a5-11e6-91c1-77af9239fdf2.png">
